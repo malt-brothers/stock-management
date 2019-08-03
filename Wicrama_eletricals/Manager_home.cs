@@ -43,10 +43,11 @@ namespace WicramaElectricals
             p_order_idTxt.Enabled = false;
             p_order_idTxt.Text = "Id Auto Number";
             FillPaidGridView();
-
+            /*
             unp_orderidTxt.Enabled = false;
             unp_orderidTxt.Text = "Id Auto Number";
             FillUnpaidGridView();
+            */
 
         }
 
@@ -131,7 +132,7 @@ namespace WicramaElectricals
             slide_panel.Height = unpaid_orders.Height;
             slide_panel.Top = unpaid_orders.Top;
             unp_order_panel.BringToFront();
-            FillUnpaidGridView();
+            //FillUnpaidGridView();
             unp_orderidTxt.Enabled = false;
             unp_orderidTxt.Text = "Id Auto Number";
             unp_orderdetailsTxt.Clear();
@@ -325,7 +326,7 @@ namespace WicramaElectricals
         }
 
 
-        ////////////////////////////////////---------------PAID ORDES PANEL FUNCTIONS----------///////////////////////////////////////
+        ////////////////////////////////////---------------ORDES PANEL FUNCTIONS----------///////////////////////////////////////
 
         //The function tht executes when the unpaid order button clicks
         private void make_unPaid_btn_Click(object sender, EventArgs e)
@@ -361,12 +362,46 @@ namespace WicramaElectricals
             }
         }
 
+        //The function tht executes when the paid order button clicks
+        private void unp_make_btn_Click(object sender, EventArgs e)
+        {
+            if (p_order_idTxt.Text != "" && p_order_detailsTxt.Text != "")
+            {
+                try
+                {
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=wicrama;");
+                    string query = "update `orders` set `paid`= '" + "yes" + "'where `id`= '" + p_order_idTxt.Text + "' ";
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    conn.Open();
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                    MessageBox.Show("The Order was marked as Paid & sent to the paid order table !");
+                    p_order_idTxt.Clear();
+                    p_order_idTxt.Enabled = false;
+                    p_order_idTxt.Text = "Id Auto Number";
+                    p_order_detailsTxt.Clear();
+                    p_partTxt.Clear();
+                    p_order_priceTxt.Clear();
+                    p_order_paidTxt.Clear();
+                    FillPaidGridView();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
+            }
+            else
+            {
+                MessageBox.Show("First...u should select an order to make changes !");
+            }
+        }
+
         /*The function tht fills paid orders datagridview*/
         void FillPaidGridView()
         {
-            String status = "yes";
+            //String status = "yes";
             MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=wicrama;");
-            MySqlDataAdapter p_sda = new MySqlDataAdapter("select * from orders where paid = '"+ status +"' ", conn);
+            MySqlDataAdapter p_sda = new MySqlDataAdapter("select * from orders ", conn);
             DataTable p_dt = new DataTable();
             p_sda.Fill(p_dt);
             paid_dataGridView1.DataSource = p_dt;
@@ -420,44 +455,12 @@ namespace WicramaElectricals
             }
         }
 
-        ////////////////////////////////////---------------UNPAID ORDES PANEL FUNCTIONS----------///////////////////////////////////////
+        ////////////////////////////////////---------------ORDES PANEL FUNCTIONS----------///////////////////////////////////////
 
-        //The function tht executes when the paid order button clicks
-        private void unp_make_btn_Click(object sender, EventArgs e)
-        {
-            if (unp_orderidTxt.Text != "" && unp_orderdetailsTxt.Text !="")
-            {
-                try
-                {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=wicrama;");
-                    string query = "update `orders` set `paid`= '" + "yes" + "'where `id`= '" + unp_orderidTxt.Text + "' ";
-                    MySqlCommand cmd = new MySqlCommand(query, conn);
-                    conn.Open();
-                    cmd.ExecuteNonQuery();
-                    conn.Close();
-                    MessageBox.Show("The Order was marked as Paid & sent to the paid order table !");
-                    unp_orderidTxt.Clear();
-                    unp_orderidTxt.Enabled = false;
-                    unp_orderidTxt.Text = "Id Auto Number";
-                    unp_orderdetailsTxt.Clear();
-                    unp_partTxt.Clear();
-                    unp_priceTxt.Clear();
-                    unp_ispaidTxt.Clear();
-                    FillUnpaidGridView();
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show(ex.ToString());
-                }
-            }
-            else
-            {
-                MessageBox.Show("First...u should select an order to make changes !");
-            }
-        }
+       
 
         /*The function tht fills Unpaid orders datagridview*/
-        void FillUnpaidGridView()
+        /*void FillUnpaidGridView()
         {
             String status = "no";
             MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=wicrama;");
@@ -465,10 +468,10 @@ namespace WicramaElectricals
             DataTable unp_dt = new DataTable();
             unp_sda.Fill(unp_dt);
             unp_dataGridView.DataSource = unp_dt;
-        }
+        }*/
 
         /*The function tht fills the text boxes when a unpaid gridview cell is clicked*/
-        private void unp_dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        /*private void unp_dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
             {
@@ -479,10 +482,10 @@ namespace WicramaElectricals
                 unp_priceTxt.Text = row.Cells[3].Value.ToString();
                 unp_ispaidTxt.Text = row.Cells[4].Value.ToString();
             }
-        }
+        }*/
 
         //The function tht executes when the cancel order button is clicked
-        private void unp_cancelorder_btn_Click(object sender, EventArgs e)
+        /*private void unp_cancelorder_btn_Click(object sender, EventArgs e)
         {
             if (unp_orderidTxt.Text != "" && unp_orderdetailsTxt.Text != "")
             {
@@ -514,5 +517,6 @@ namespace WicramaElectricals
                 MessageBox.Show("First....u should select an order to cancel !");
             }
         }
+        */
     }
 }
