@@ -42,3 +42,25 @@ F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletrica
 F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.CopyComplete
 F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.exe
 F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.pdb
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\Wicrama_eletricals.exe.config
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\Wicrama_eletricals.exe
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\Wicrama_eletricals.pdb
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\Google.Protobuf.dll
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\bin\Debug\MySql.Data.xml
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.csprojAssemblyReference.cache
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.Admin_home.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.Confirm.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.Home.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.Login.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.Manager_home.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.MyOrders.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.Properties.Resources.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.SignUp.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.UserControl1.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\WicramaElectricals.User_list.resources
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.csproj.GenerateResource.cache
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.csproj.CoreCompileInputs.cache
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.csproj.CopyComplete
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.exe
+C:\Users\Hishan\Desktop\stock mana\stock-management\Wicrama_eletricals\obj\Debug\Wicrama_eletricals.pdb

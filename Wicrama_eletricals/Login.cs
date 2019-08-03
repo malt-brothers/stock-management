@@ -26,7 +26,7 @@ namespace WicramaElectricals
             this.Hide();
         }
 
-        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+            private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
             try
             {
@@ -94,5 +94,6 @@ namespace WicramaElectricals
         {
             this.Close();
         }
+
     }
 }
