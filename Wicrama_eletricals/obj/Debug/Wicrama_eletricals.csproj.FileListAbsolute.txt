@@ -1,0 +1,44 @@
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe.config
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.pdb
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Google.Protobuf.dll
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\BouncyCastle.Crypto.dll
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\MySql.Data.xml
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csprojAssemblyReference.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Admin_home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Confirm.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Login.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Manager_home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.MyOrders.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Properties.Resources.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.SignUp.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.UserControl1.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.User_list.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.GenerateResource.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.CoreCompileInputs.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.CopyComplete
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.exe
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.pdb
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Wicrama_eletricals.exe.config
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Wicrama_eletricals.exe
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Wicrama_eletricals.pdb
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Google.Protobuf.dll
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\BouncyCastle.Crypto.dll
+F:\Inventory-management-system-master\TinaliAutoLight\bin\Debug\MySql.Data.xml
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csprojAssemblyReference.cache
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Admin_home.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Confirm.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Home.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Login.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Manager_home.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.MyOrders.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.Properties.Resources.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.SignUp.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.UserControl1.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.User_list.resources
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.GenerateResource.cache
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.CoreCompileInputs.cache
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.csproj.CopyComplete
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.exe
+F:\Inventory-management-system-master\TinaliAutoLight\obj\Debug\Wicrama_eletricals.pdb

@@ -1,0 +1,83 @@
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe.config
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.pdb
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Properties.Resources.resources
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.GenerateResource.Cache
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CoreCompileInputs.cache
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.exe
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.pdb
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Login.resources
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.SignUp.resources
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\MySql.Data.dll
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\Google.Protobuf.dll
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\BouncyCastle.Crypto.dll
+F:\Projects\TinaliAutoLight\TinaliAutoLight\bin\Debug\MySql.Data.xml
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csprojResolveAssemblyReference.cache
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Home.resources
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Confirm.resources
+F:\Projects\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.MyOrders.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe.config
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\bin\Debug\TinaliAutoLight.pdb
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Confirm.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Home.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Login.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.MyOrders.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Properties.Resources.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.SignUp.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.GenerateResource.cache
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CoreCompileInputs.cache
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CopyComplete
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.exe
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.pdb
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Manager_home.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.UserControl1.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.csprojAssemblyReference.cache
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.Admin_home.resources
+E:\Myprojects\TinaliAuto\TinaliAutoLight\TinaliAutoLight\obj\Debug\TinaliAutoLight.User_list.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csprojResolveAssemblyReference.cache
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Admin_home.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Confirm.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Home.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Login.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Manager_home.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.MyOrders.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Properties.Resources.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.SignUp.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.UserControl1.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.User_list.resources
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.GenerateResource.Cache
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CoreCompileInputs.cache
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.exe
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.pdb
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe.config
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.pdb
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\MySql.Data.dll
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Google.Protobuf.dll
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Suthura\Desktop\Inventory-management-system-master\TinaliAutoLight\bin\Debug\MySql.Data.xml
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe.config
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.exe
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\TinaliAutoLight.pdb
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\Google.Protobuf.dll
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\BouncyCastle.Crypto.dll
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\bin\Debug\MySql.Data.xml
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csprojAssemblyReference.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.Properties.Resources.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.GenerateResource.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CoreCompileInputs.cache
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.csproj.CopyComplete
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.exe
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\TinaliAutoLight.pdb
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Admin_home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Confirm.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Login.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.Manager_home.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.MyOrders.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.SignUp.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.UserControl1.resources
+E:\Myprojects\New WinRAR archive\Inventory-management-system-master\TinaliAutoLight\obj\Debug\WicramaElectricals.User_list.resources
